@@ -1,2 +1,2 @@
-# django-todo-app
+# django-trade-app
 A Simple project developed by Django Framework
