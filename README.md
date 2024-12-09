@@ -1,2 +1,2 @@
 # django-todo-app
-A Smple Todo App developed by Django Framework
+A Simple project developed by Django Framework
